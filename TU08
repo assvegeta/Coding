@@ -1,1 +1,4 @@
-
+while True:
+  favourite_subject = input ('What is your favourite subject?')
+  if favourite_subject == "Computer Science":
+    break
