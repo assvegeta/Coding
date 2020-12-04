@@ -1,0 +1,5 @@
+CelebrityName =(input('What is the name of your celebrity?'))
+CelebrityBorn = int(input('When was your celebrity born?'))
+MyAge = int(input('When were you born?'))
+AgeDifference = MyAge - CelebrityBorn
+print( CelebrityName,"is",AgeDifference,"years older than you")
